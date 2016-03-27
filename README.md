@@ -3,7 +3,7 @@
 
 ## Resources
 [Sean Hess](http://seanhess.github.io/)
-Learn You a Haskell for Great Good - [온라인(영어, 무료)](http://learnyouahaskell.com/), [책, 번역본](http://book.naver.com/bookdb/book_detail.nhn?bid=7436299)
+Learn You a Haskell for Great Good - [온라인(영어, 무료)](http://learnyouahaskell.com/), [한글 번역본( 유료)](http://book.naver.com/bookdb/book_detail.nhn?bid=7436299)
 
 
 ## 설치
