@@ -1,4 +1,4 @@
-# learnHaskell
+# Learn Haskell
 하스켈 학습
 
 [<img src="https://samuelthomaservin.files.wordpress.com/2014/01/haskell.png">](http://google.com.au/)
