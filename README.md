@@ -3,6 +3,10 @@
 
 [<img src="https://samuelthomaservin.files.wordpress.com/2014/01/haskell.png">](http://google.com.au/)
 
+## 학습 목표
+1. 함수적 사고 방식을 익히기(개발자)
+2. 프로그래밍 입문 (비개발자)
+
 ## 설치
 Stack 설치
 ```
